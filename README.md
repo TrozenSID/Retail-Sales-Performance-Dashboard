@@ -35,7 +35,7 @@ This project analyzes retail sales data to track performance across key metrics 
 
 ## ✨ About the Author
 👋 Hi, I'm **Shivam Siddhu**, a passionate data analyst skilled in SQL, Power BI, and Excel.  
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shivam-siddhu22)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-siddhu22)!
 
 ---
 
